@@ -1,0 +1,36 @@
+_repo: Round-the-Wonderful-World_28783
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Forrest, A. S. (Archibald Stevenson)
+    alias: Forrest, Archibald Stevenson
+    birthdate: 1869
+    deathdate: 1963
+    gutenberg_agent_id: '33528'
+    url: http://www.gutenberg.org/2009/agents/33528
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitton, G. E. (Geraldine Edith)
+    alias: Mitton, Geraldine Edith
+    birthdate: 1868
+    deathdate: 1955
+    gutenberg_agent_id: '9224'
+    url: http://www.gutenberg.org/2009/agents/9224
+    wikipedia: https://en.wikipedia.org/wiki/Geraldine_Mitton
+description: ''
+gutenberg_issued: '2009-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28783'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Voyages around the world'
+title: Round the Wonderful World
+url: http://www.gutenberg.org/ebooks/28783
